@@ -1,0 +1,6 @@
+D:\MiniMarket\CL_AccesoDatos\bin\Debug\CL_AccesoDatos.dll
+D:\MiniMarket\CL_AccesoDatos\bin\Debug\CL_AccesoDatos.pdb
+D:\MiniMarket\CL_AccesoDatos\obj\Debug\CL_AccesoDatos.csproj.AssemblyReference.cache
+D:\MiniMarket\CL_AccesoDatos\obj\Debug\CL_AccesoDatos.csproj.CoreCompileInputs.cache
+D:\MiniMarket\CL_AccesoDatos\obj\Debug\CL_AccesoDatos.dll
+D:\MiniMarket\CL_AccesoDatos\obj\Debug\CL_AccesoDatos.pdb

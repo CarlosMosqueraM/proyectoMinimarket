@@ -1,0 +1,12 @@
+D:\MiniMarket\CL_Capa_Entidades\bin\Debug\CL_Capa_Entidades.dll
+D:\MiniMarket\CL_Capa_Entidades\bin\Debug\CL_Capa_Entidades.pdb
+D:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.csproj.AssemblyReference.cache
+D:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.csproj.CoreCompileInputs.cache
+D:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.dll
+D:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.pdb
+G:\MiniMarket\CL_Capa_Entidades\bin\Debug\CL_Capa_Entidades.dll
+G:\MiniMarket\CL_Capa_Entidades\bin\Debug\CL_Capa_Entidades.pdb
+G:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.csproj.AssemblyReference.cache
+G:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.csproj.CoreCompileInputs.cache
+G:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.dll
+G:\MiniMarket\CL_Capa_Entidades\obj\Debug\CL_Capa_Entidades.pdb
