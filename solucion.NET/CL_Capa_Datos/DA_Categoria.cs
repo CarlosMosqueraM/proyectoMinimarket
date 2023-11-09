@@ -33,7 +33,7 @@ namespace CL_Capa_Datos
 
             string strSQL = "Update categoria set nombre='" +
                 objCategoria.Nombre + "',descripcion='" +
-                objCategoria.Descripcion + "';";
+                objCategoria.Descripcion + "' WHERE idCategoria = " + objCategoria.idCategoria + ";";
 
 
             return RealizarTransaccion(strSQL);
