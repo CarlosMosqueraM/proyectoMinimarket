@@ -75,7 +75,7 @@ namespace WF_MiniMarket
                 if (dgvConsultarCliente.CurrentRow != null)
                 {
                     gbActualizacionCliente.Visible = true;
-                    string idClienteStr = dgvConsultarCliente.CurrentRow.Cells[1].Value.ToString();
+                    string idClienteStr = dgvConsultarCliente.CurrentRow.Cells["idCliente"].Value.ToString();
                     Cliente ObjCliente = new Cliente();
                     // Convierte la cadena a un entero usando int.Parse y asigna el valor a ObjCliente.idCliente
                     ObjCliente.idCliente = int.Parse(idClienteStr);
