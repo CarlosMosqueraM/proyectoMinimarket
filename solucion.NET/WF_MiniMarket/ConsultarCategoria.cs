@@ -66,6 +66,12 @@ namespace WF_MiniMarket
             if (dgvConsultarCategoria.Columns[e.ColumnIndex].Name == "Actualizar")
             {
                 gbActualizacionCategoria.Visible = true;
+                string idCategoriaStr = dgvConsultarCategoria.CurrentRow.Cells["idCategoria"].Value.ToString();
+                Categoria ObjCategoria = new Categoria();
+
+
+               
+                ObjCategoria.idCategoria = int.Parse(idCategoriaStr);
 
                 txtBoxNombreCategoria.Text = dgvConsultarCategoria.CurrentRow.Cells[2].Value.ToString();
                 txtBoxDescripcionCategoria.Text = dgvConsultarCategoria.CurrentRow.Cells[3].Value.ToString();
