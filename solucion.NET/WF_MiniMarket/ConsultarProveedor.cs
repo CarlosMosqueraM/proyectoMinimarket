@@ -79,12 +79,12 @@ namespace WF_MiniMarket
                 if (dgvConsultarProveedor.CurrentRow != null)
                 {
                     gbActualizacionProveedor.Visible = true;
-                //string idProveedorStr = dgvConsultarProveedor.CurrentRow.Cells["idProveedor"].Value.ToString();
-                //Proveedor ObjProveedor = new Proveedor();
+                string idProveedorStr = dgvConsultarProveedor.CurrentRow.Cells["idProveedor"].Value.ToString();
+                Proveedor ObjProveedor = new Proveedor();
 
 
-                // Convierte la cadena a un entero usando int.Parse y asigna el valor a ObjProveedor.idProveedor
-                //ObjProveedor.idProveedor = int.Parse(idProveedorStr);
+               
+                ObjProveedor.idProveedor = int.Parse(idProveedorStr);
 
                 txtBoxNITProveedor.Text = dgvConsultarProveedor.CurrentRow.Cells[2].Value.ToString();
                 txtBoxRazonSocialProveedor.Text = dgvConsultarProveedor.CurrentRow.Cells[3].Value.ToString();
